@@ -1,0 +1,11 @@
+twitter_bootstrap:
+  type: link
+  attribute:
+    href: /plugin/twitter/bootstrap335v/css/bootstrap.css
+    rel: stylesheet
+twitter_bootstrap_theme:
+  type: link
+  attribute:
+    href: /plugin/twitter/bootstrap335v/css/bootstrap-theme.css
+    rel: stylesheet
+

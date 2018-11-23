@@ -1,0 +1,14 @@
+twitter_bootstrap_meta_utf8:
+  type: meta
+  attribute:
+    charset: utf-8
+twitter_bootstrap_meta_http:
+  type: meta
+  attribute:
+    http-equiv: X-UA-Compatible
+    content: IE=edge
+twitter_bootstrap_meta_viewport:
+  type: meta
+  attribute:
+    name: viewport
+    content: 'width=device-width, initial-scale=1'
