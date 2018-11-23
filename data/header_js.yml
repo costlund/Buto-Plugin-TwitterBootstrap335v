@@ -1,13 +1,13 @@
 twitter_bootstrap_jquery:
   type: script
   attribute:
-    src: /plugin/twitter/bootstrap335v/jquery/1.11.3/jquery.min.js
+    src: /plugin/twitter/bootstrap335v/jquery/1.12.4/jquery.min.js
 twitter_bootstrap_js:
   type: script
   attribute:
     src: /plugin/twitter/bootstrap335v/js/bootstrap.min.js
 twitter_bootstrap_jquery_script: 
-#Add code to handle conflict with Prototype.
+  #Add code to handle conflict with Prototype.
   type: script
   settings:
     disabled: true

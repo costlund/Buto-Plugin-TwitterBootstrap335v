@@ -1,7 +1,7 @@
 <?php
 /**
 <p>
-Use Bootstrap for easy interface. Split in tree parts, meta, css and javascript.
+Use Bootstrap css. Split in tree parts, meta, css and javascript.
 </p>
  */
 class PluginTwitterBootstrap335v{
