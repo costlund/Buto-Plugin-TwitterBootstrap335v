@@ -3,6 +3,7 @@ twitter_bootstrap:
   attribute:
     href: /plugin/twitter/bootstrap335v/css/bootstrap.css
     rel: stylesheet
+    id: PluginTwitterBootstrap335v
 twitter_bootstrap_theme:
   type: link
   attribute:
